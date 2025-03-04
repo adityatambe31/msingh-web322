@@ -1,0 +1,14 @@
+{
+  "rewrites": [
+    {
+      "source": "/about",
+      "destination": "/views/about.html"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/views/$1"
+    }
+  ]
+}

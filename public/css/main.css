@@ -1,0 +1,23 @@
+/* main.css */
+body {
+    background-color:lavender;
+    font-family: 'Satisfy', cursive;
+    
+}
+
+.navbar {
+    background-color:darkslateblue !important;
+}
+
+a {
+    color: rgb(216, 213, 213)!important;
+    font-family: 'Oswald, Bebas Neue', sans-serif;
+}
+
+h2 {
+    font-weight: bold;
+}
+
+p {
+    color: grey;
+}
